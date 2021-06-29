@@ -1,5 +1,5 @@
 Hi, I’m @mmz-001
-- 👀 I’m interested in automation, machine learning, data analysis, and making games.
+- 👀 I’m interested in Automation, Machine Learning, Data Analysis, Blockchain, and making games.
 - 🌱 I’m currently learning Python, Java, and C#.
 
 <!---
