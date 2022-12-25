@@ -1,5 +1,5 @@
-Hi, I’m Sasmitha🙋🏽‍♂️ I'm a software developer with a passion for all things tech.
-I am particularly interested in AI, machine learning, and data analysis, as well as dabbling in the world of blockchain and web development.
+Hi, I’m Sasmitha🙋🏽‍♂️ I love software develpment and all things tech.
+I'm interested in AI, machine learning, and data analysis, blockchain and web development.
 
 ## 💻 Programming Languages
 
