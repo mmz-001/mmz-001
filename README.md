@@ -4,15 +4,14 @@ I'm interested in AI, machine learning, and data analysis, blockchain and web de
 ## 💻 Programming Languages
 
 - Python
-- JavaScript
+- JavaScript/TypeScript
 - C/C++
 - Java
 
 ## 🚀 Frameworks
 
-- React
-- React Native
+- React/React Native
 - Gatsby
-- NodeJS
+- NextJS
 
 I'm always looking for new challenges and opportunities to improve my skills. If you have an interesting project or an idea you think I could contribute to, feel free to drop me a message💬
