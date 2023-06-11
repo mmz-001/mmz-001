@@ -1,5 +1,7 @@
-Hi, I’m Sasmitha🙋🏽‍♂️ I love software develpment and all things tech.
-I'm interested in AI, machine learning, UI/UX, and web development.
+Hi, I'm Sasmitha. I'm a Freelance Full Stack Developer building cool AI tools.
+
+![GitHub User's stars](https://img.shields.io/github/stars/mmz-001?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mmz-001?style=for-the-badge)
 
 ## 💻 Programming Languages
 
@@ -10,11 +12,11 @@ I'm interested in AI, machine learning, UI/UX, and web development.
 
 ## 🚀 Frameworks
 
-- React/React Native
-- Gatsby
+- React
+- LangChain
 - NextJS
 - Redux
 - Recoil
 - Tailwind
 
-I'm always looking for new challenges and opportunities to improve my skills. If you have an interesting project or an idea you think I could contribute to, feel free to drop me a message💬
+I'm always looking for new challenges and opportunities to improve my skills. If you have an interesting project or an idea you think I could contribute to, you can reach me at [mmzappdev@gmail.com](mailto:mmzappdev@gmail.com)
