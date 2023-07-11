@@ -1,6 +1,7 @@
 Hi, I'm Sasmitha. I'm a Freelance Full Stack Developer building cool AI tools.
 
-![GitHub User's stars](https://img.shields.io/github/stars/mmz-001?style=for-the-badge)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmz-001&show_icons=true&theme=dracula)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mmz-001/mmz-001))
+
 ![GitHub followers](https://img.shields.io/github/followers/mmz-001?style=for-the-badge)
 
 ## 💻 Programming Languages
