@@ -16,4 +16,4 @@ Hi, I'm Sasmitha. I'm a Full Stack Developer building cool AI tools.
 - Supabase
 
 
-Want to ship your MVP fast🚀 Reach me at [mmzappdev@gmail.com](mailto:mmzappdev@gmail.com)
+Want to build and ship your MVP fast🚀 Reach me at [mmzappdev@gmail.com](mailto:mmzappdev@gmail.com)
