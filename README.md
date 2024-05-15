@@ -1,11 +1,9 @@
-Hi, I'm Sasmitha. I'm a Full Stack Developer building cool AI tools.
-
-![GitHub followers](https://img.shields.io/github/followers/mmz-001?style=for-the-badge)
+Hi, I'm Sasmitha. I build cool AI tools.
 
 ## 💻 Programming Languages
 
 - Python
-- TypeScript
+- TS/JS
 
 ## 🛠 Frameworks
 
@@ -14,6 +12,7 @@ Hi, I'm Sasmitha. I'm a Full Stack Developer building cool AI tools.
 - Tailwind
 - LangChain
 - Supabase
+- XState
 
 
 Want to build and ship your MVP fast🚀 Reach me at [mmzappdev@gmail.com](mailto:mmzappdev@gmail.com)
