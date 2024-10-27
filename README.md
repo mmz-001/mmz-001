@@ -10,9 +10,9 @@ Hi, I'm Sasmitha. I build cool AI tools.
 - React
 - FastAPI
 - Tailwind
-- LangChain
 - Supabase
 - XState
+- Burr
 
 
 Want to build and ship your MVP fast🚀 Reach me at [mmzappdev@gmail.com](mailto:mmzappdev@gmail.com)
